@@ -62,7 +62,7 @@
       "default" : "m3.medium",
       "description" : "Instance type for creating backups.",
       "allowedValues" : [
-        "t1.micro",
+        "t2.micro",
         "m3.medium",
         "m3.large",
         "m3.xlarge",
